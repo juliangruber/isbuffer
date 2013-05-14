@@ -1,9 +1,10 @@
-
 # isBuffer
 
 
 Check if something is a [Node.js Buffer](http://nodejs.org/api/buffer.html) or
 [Typed Array](https://developer.mozilla.org/en-US/docs/JavaScript/Typed_arrays)
+
+[![browser support](https://ci.testling.com/juliangruber/isbuffer.png)](https://ci.testling.com/juliangruber/isbuffer)
 
 [![Build Status](https://travis-ci.org/juliangruber/isBuffer.png?branch=master)](https://travis-ci.org/juliangruber/isBuffer)
 
