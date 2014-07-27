@@ -4,7 +4,7 @@
 Check if something is a [Node.js Buffer](http://nodejs.org/api/buffer.html) or
 [Typed Array](https://developer.mozilla.org/en-US/docs/JavaScript/Typed_arrays).
 
-[![Build Status](https://travis-ci.org/juliangruber/isBuffer.png?branch=master)](https://travis-ci.org/juliangruber/isBuffer)
+[![Build Status](https://travis-ci.org/juliangruber/isBuffer.svg?branch=master)](https://travis-ci.org/juliangruber/isBuffer)
 [![downloads](https://img.shields.io/npm/dm/isbuffer.svg)](https://www.npmjs.org/package/isbuffer)
 
 
